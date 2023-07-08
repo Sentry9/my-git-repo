@@ -9,3 +9,7 @@
 <div align="center">
   <img src ="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif" width="250" height="250"/>
 </div>
+Это был кот программист, а сейчас появится кот-бутерброд
+<div align="center">
+        <img src ="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif" width="238" height="302"/>
+</div>

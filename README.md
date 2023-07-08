@@ -6,3 +6,6 @@
 3. Добавление файлов и коммит
 4. Использование `.gitignore`
 5. Слияние веток и разрешение конфликтов
+<div align="center">
+  <img src ="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif" width="119" height="119"/>
+</div>

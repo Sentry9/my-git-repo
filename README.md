@@ -13,3 +13,4 @@
 <div align="center">
         <img src ="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif" width="238" height="302"/>
 </div>
+Все гифки взяты с сайта <a herf="https://tenor.com/"> tenor </a>
